@@ -1,6 +1,7 @@
 import { 
     View,
-    Text, StyleSheet
+    Text, 
+    StyleSheet
  } from "react-native";
  import { GlobalStyles } from './../../constants/styles'
 
